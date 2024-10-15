@@ -1,17 +1,21 @@
-# 👋 Hi, I'm RAJITHLINGAM.
----
+# Hi, I'm RAJITHLINGAM 👋
 
-## 📊 GitHub Stats
+### Frontend Web Developer | Crafting Modern, Responsive Web Solutions
 
-![Rajith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajithlingam&show_icons=true&theme=radical)
+I’m a Frontend Web Developer passionate about creating user-friendly, visually appealing websites. My focus is on building responsive and interactive web experiences using modern technologies.
 
----
+### 🚀 Skills & Technologies:
+- HTML5, CSS3, JavaScript (ES6+)
+- Responsive Design (Flexbox, Grid)
+- Version Control (Git, GitHub)
 
-## 📫 Connect with Me
+### 🌱 Currently Learning:
+- React (Enhancing UI/UX with components)
+- Advanced CSS (Animations, Transitions)
 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rajithlingam-v-320909240)
-- **Instagram**: [Instagram Profile](https://www.instagram.com/rajithlingam_)
-- **Twitter**: [Twitter Profile](https://twitter.com/LingamRajith)
-- **Email**: [Mail-id](mailto:vrajithlingam@gmail.com)
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/rajithlingam-v-320909240/)
+- [Email](mailto:work.rajithlingam@gmail.com)
 
----
+### ⚡ Fun Fact:
+I'm always exploring new ways to enhance web experiences with vibrant designs and smooth interactions!
