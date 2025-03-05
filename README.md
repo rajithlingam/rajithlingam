@@ -14,9 +14,8 @@ A passionate **React Developer** who thrives on building modern, interactive, an
 Currently deep-diving into **React performance optimizations, advanced state management, and full-stack integrations**.
 
 ## 📫 Let's Connect!
-- 💼 **LinkedIn:** [linkedin.com/in/rajithlingam](https://www.linkedin.com/in/rajithlingam/)
-- 🏗 **GitHub:** [github.com/rajithlingam](https://github.com/rajithlingam)
-- ✉️ **Email:** [work.rajithlingam@gmail.com](mailto:vrajithlingam@gmail.com)
+- 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/rajithlingam/)
+- ✉️ **Mail:** [Gmail](mailto:vrajithlingam@gmail.com)
 
 ---
 Let's collaborate and build something amazing! 🚀
