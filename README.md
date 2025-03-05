@@ -1,21 +1,23 @@
-# Hi, I'm RAJITHLINGAM 👋
+# Hi there, I'm RAJITHLINGAM! 👋
+---
 
-### Frontend Web Developer | Crafting Modern, Responsive Web Solutions
+## 🚀 About Me
+A passionate **React Developer** who thrives on building modern, interactive, and scalable web applications. I love exploring new technologies and optimizing user experiences through clean and efficient code. My focus is on **React.js, frontend performance, and seamless API integrations**.
 
-I’m a Frontend Web Developer passionate about creating user-friendly, visually appealing websites. My focus is on building responsive and interactive web experiences using modern technologies.
+## 🛠 My Tech Toolbox
+- **Languages & Frameworks:** JavaScript, React.js, JSX, HTML5, CSS3, Tailwind CSS
+- **State Management:** React Hooks (useState, useEffect), Context API
+- **Performance & Testing:** Parcel, Jest, React Testing Library
+- **Development Tools:** Git, GitHub, Chrome DevTools, Linux CLI
+- **APIs & Integrations:** RESTful APIs, Firebase Authentication, OpenAI API
 
-### 🚀 Skills & Technologies:
-- HTML5, CSS3, JavaScript (ES6+)
-- Responsive Design (Flexbox, Grid)
-- Version Control (Git, GitHub)
+## 🌱 Learning & Growth
+Currently deep-diving into **React performance optimizations, advanced state management, and full-stack integrations**.
 
-### 🌱 Currently Learning:
-- React (Enhancing UI/UX with components)
-- Advanced CSS (Animations, Transitions)
+## 📫 Let's Connect!
+- 💼 **LinkedIn:** [linkedin.com/in/rajithlingam](https://www.linkedin.com/in/rajithlingam/)
+- 🏗 **GitHub:** [github.com/rajithlingam](https://github.com/rajithlingam)
+- ✉️ **Email:** [work.rajithlingam@gmail.com](mailto:vrajithlingam@gmail.com)
 
-### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/rajithlingam-v-320909240/)
-- [Email](mailto:work.rajithlingam@gmail.com)
-
-### ⚡ Fun Fact:
-I'm always exploring new ways to enhance web experiences with vibrant designs and smooth interactions!
+---
+Let's collaborate and build something amazing! 🚀
