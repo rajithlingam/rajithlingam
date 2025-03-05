@@ -1,5 +1,4 @@
 # Hi there, I'm RAJITHLINGAM! 👋
----
 
 ## 🚀 About Me
 A passionate **React Developer** who thrives on building modern, interactive, and scalable web applications. I love exploring new technologies and optimizing user experiences through clean and efficient code. My focus is on **React.js, frontend performance, and seamless API integrations**.
